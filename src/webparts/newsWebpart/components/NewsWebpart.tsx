@@ -26,7 +26,7 @@ export default class NewsWebpart extends React.Component<INewsWebpartProps, any>
                        <h1>Departmental News</h1>
                     </div> 
                     <div className={ styles.hcard }>
-                      <a href="https://axamansard.sharepoint.com/Newsfeed.aspx">View All</a>
+                      <a href="https://axamansard.sharepoint.com/SitePages/Newsfeed.aspx">View All</a>
                     </div> 
                 </div> 
             </div>
